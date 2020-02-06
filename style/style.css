@@ -2,6 +2,10 @@
   font-family: 'Courier New', Courier, monospace;
   font-size: 20px;
 }
+.referrer_form {
+  width: 100%;
+  text-align: center;
+}
 img {
   width: 100%;
 }
